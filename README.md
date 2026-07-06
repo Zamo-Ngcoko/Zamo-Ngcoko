@@ -1,6 +1,6 @@
 # Hi 👋 My name is Zamokuhle Ngcoko
 
-## Project Engineer | Water Treatment | Wastewater | CAPEX | Data-Driven Project Management
+## Project Engineer | Data-Driven Project Management | Data Analytics & Engineering Portfolio
 
 Project Engineer with a strong background in water treatment, wastewater systems, utilities, plant reliability, process improvement and project execution. I work on practical engineering solutions including water treatment plant development, wastewater treatment improvements, water reliability tools, CAPEX submissions, operational dashboards and reporting systems.
 
