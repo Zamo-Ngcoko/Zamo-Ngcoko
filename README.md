@@ -6,7 +6,7 @@ Project Engineer with a strong background in water treatment, wastewater systems
 
 As AI continues to reshape technical work, I believe the modern engineer must bring more than technical ability alone. Technical competence remains important, but the real differentiator is increasingly becoming the ability to lead projects, manage stakeholders, communicate clearly, prepare strong business cases, and turn ideas into practical execution.
 
-This is the space I am intentionally growing into — combining engineering, data, project management and operational insight to support better decision-making, reliable plant performance and stronger project delivery.
+This is the space I am intentionally growing into combining engineering, data, project management and operational insight to support better decision-making, reliable plant performance and stronger project delivery.
 
 I am also strengthening my formal project management foundation, with CAPM certification planned as the next step and PMP as a longer-term goal.
 
