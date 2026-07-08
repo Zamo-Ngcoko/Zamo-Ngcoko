@@ -96,4 +96,4 @@ This portfolio is being built around practical engineering and project work, inc
 
 ## ⚡ Guiding Principle
 
-Engineering is noT only about solving technical problems. It is also about communicating the problem clearly, aligning people, justifying the solution, managing risk, and executing projects that create measurable value.
+Engineering is not only about solving technical problems. It is also about communicating the problem clearly, aligning people, justifying the solution, managing risk, and executing projects that create measurable value.
